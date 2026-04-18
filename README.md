@@ -100,12 +100,6 @@ IDAI106_1000389-TanmayThakur/
 
 ---
 
-## 🔗 Prototype Link
-
-📎 [https://www.figma.com/make/LhXyUFQRrpB6OsMOLd6RRe/Hospital-Queue-Management-App?t=3AfWW2F4RJB8lfaN-1]
-
----
-
 ## 👤 User Personas
 
 1. **Meera, 65** — Senior patient, hard of hearing, needs silent notifications
